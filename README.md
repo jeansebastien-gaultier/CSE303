@@ -151,4 +151,17 @@ Overall Summary:
 
  
 
+ ### Summary Meeting (20/10):
  
+ - Implementation is a good idea, but making the implementation too complex is not the objective of the project
+ - Understanding how the implementation works is important, it gives a solid base for the rest of the project
+ 
+ - Now work on more of a research aspect of the question we want to answer
+ - Take everything in a more abstract manner (example of units for sound and light for BBlocks)
+ - Focus on trying to understand how the blocks communicate amongst each other and see how the status of one in relevance to the other affects the system
+ - Try to use graphs to visualize the communication of of the graphs amongst each other
+ - CONCLUSION: specify how the data for each block is collected to then understand how this data can be shared amongst the blocks (work on the idea that we have a whole system composed of multiple blocks, so we can have look at certain neighborhoods rather than whole systems)
+ 
+ IDEAS:
+  - Focus on BBlocks and their neighborhoods (try to have a 3D) graph where we can study for example the one central node and we see how powerful the emission of light is around that block. (If we have one side of the graph with too much light emitted, maybe turn some off and emit more light on the other side).
+  
