@@ -165,3 +165,17 @@ Overall Summary:
  IDEAS:
   - Focus on BBlocks and their neighborhoods (try to have a 3D) graph where we can study for example the one central node and we see how powerful the emission of light is around that block. (If we have one side of the graph with too much light emitted, maybe turn some off and emit more light on the other side).
   
+  ### Summary Meeting (28/10):
+  
+  - Idea of visualization graph was not a bad idea, but a misunderstanding of graphs, put it aside for now, not the most important aspect (STAR WARS: *insert quote)
+  
+  - Better plan COMMUNICATION/CONNECTIVITY GRAPHS (little balls associated in space)
+ 
+ FUTURE WORK:
+ - Get the idea of how the systems are connected in space amongst each other
+ - LOok at Graph Query Language to have an idea on how to have communication and control of the system
+ - Associate it to IOT (make the project global, BBlocks is a good start but small applications)
+ - With the query ideas many possibilities:
+ 	- info => path 
+	- path => info
+	- the notion of priority of one parameter over another
