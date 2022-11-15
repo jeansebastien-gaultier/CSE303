@@ -188,7 +188,8 @@ TYPES OF LANGUAGE:
 	- Algebraic functions, which are expressed as finite algebraic expressions over distributive functions, e.g., average is computed using count and 	sum.
 	- Holistic functions, which are all other functions that are not distributive nor algebraic.
 	
-(links: - important* https://modeling-languages.com/ocl-tutorial/
+(links: 
+- important* https://modeling-languages.com/ocl-tutorial/
 - important * https://modeling-languages.com/aggregation-functions-ocl/ 
 - this is to understand graph query language: https://aidanhogan.com/docs/graph_database_query_survey.pdf
 - this is for more information* http://torlone.dia.uniroma3.it/pubs/icdt99.pdf )
