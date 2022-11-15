@@ -179,3 +179,21 @@ Overall Summary:
  	- info => path 
 	- path => info
 	- the notion of priority of one parameter over another
+	
+	
+TYPES OF LANGUAGE:
+- Unified Modeling Language (UML): is a general-purpose, developmental modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.
+- Object Constraint Language (OCL): is frequently used to express model transformations (as part of the source and target patterns of transformation rules), well-formedness rules (as part of the definition of new domain-specific languages), or code-generation templates (as a way to express the generation patterns and rules). Here we have:
+	- Distributive functions, which can be defined by structural recursion, i.e., the input collection can be partitioned into subcollections that can 	be individually aggregated and combined.
+	- Algebraic functions, which are expressed as finite algebraic expressions over distributive functions, e.g., average is computed using count and 	sum.
+	- Holistic functions, which are all other functions that are not distributive nor algebraic.
+	
+(links: 
+- important* https://modeling-languages.com/ocl-tutorial/
+- important * https://modeling-languages.com/aggregation-functions-ocl/ 
+- this is to understand graph query language: https://aidanhogan.com/docs/graph_database_query_survey.pdf
+- this is for more information* http://torlone.dia.uniroma3.it/pubs/icdt99.pdf )
+
+
+	
+	
