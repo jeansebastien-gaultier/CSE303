@@ -194,6 +194,12 @@ TYPES OF LANGUAGE:
 - this is to understand graph query language: https://aidanhogan.com/docs/graph_database_query_survey.pdf
 - this is for more information* http://torlone.dia.uniroma3.it/pubs/icdt99.pdf )
 
+### Summary Meeting (15/11):
 
-	
+- Stated during meeting: work with NLP or work with hundreds of functions (both might work, one is a hassle, and the other is a little complex).
+- Solution: find an in between, reduce the number of functions make them very specific to parameters, and use regular expressions maybe to help with the parameter definitions
+- Look at other types of languages and see if that can help us
+
+To do:
+- Try to associate a node to a location and then query on the paths will be easier
 	
